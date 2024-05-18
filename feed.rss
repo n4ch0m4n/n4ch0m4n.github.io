@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>n4ch0m4n blog</title><link>http://n4ch0m4n.github.io//index.html</link>
+<description>A blog about things</description><language>en</language>
+<lastBuildDate>Fri, 17 May 2024 23:26:36 -0300</lastBuildDate>
+<pubDate>Fri, 17 May 2024 23:26:36 -0300</pubDate>
+<atom:link href="http://n4ch0m4n.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Vamos a hacer un blog desde consola
+</title><description><![CDATA[
+
+<p>Pues eso, la idea es armar un blog desde consola en <b>html</b>. Veremos que sale!</p>
+
+<p>Tags: <a href='tag_General.html'>General</a></p>
+<!-- text end -->
+]]></description><link>http://n4ch0m4n.github.io//vamos-a-hacer-un-blog-desde-consola.html</link>
+<guid>http://n4ch0m4n.github.io//./vamos-a-hacer-un-blog-desde-consola.html</guid>
+<dc:creator>n4ch0m4n</dc:creator>
+<pubDate>Fri, 17 May 2024 23:26:32 -0300</pubDate></item>
+</channel></rss>
